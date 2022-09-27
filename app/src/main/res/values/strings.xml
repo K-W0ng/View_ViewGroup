@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Intents Application - Wong</string>
+    <string name="act1_title">MOBCOM1\nActivities and Intents</string>
+    <string name="act2_title">WONG\nActivities and Intents</string>
+    <string name="btnWeb">Google</string>
+    <string name="btnDialer">Dialer</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnCamera">Camera</string>
+    <string name="btnNext">Next</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnBack">Back</string>
+    <string name="btnHome">Home</string>
+</resources>
